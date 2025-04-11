@@ -18,7 +18,7 @@ Welcome to the **C++ Concepts Repository**! This repository contains multiple C+
 
 ## 📷 Screenshots
 
-<img src="array_pic.png" />
+<img src="array_pic.png" width="800px" height="450px" />
 
 ---
 
