@@ -16,6 +16,12 @@ Welcome to the **C++ Concepts Repository**! This repository contains multiple C+
 
 ---
 
+## 📷 Screenshots
+
+<img src="array_pic.png" />
+
+---
+
 ## 📜 Features
 
 - 🧮 **Arrays**: Learn how to work with arrays in C++.
